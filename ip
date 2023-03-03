@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/7NN_TV.svg/512px-7NN_TV.svg.png",7 Noticias (1080p)
+https://dxf45ob769xpw.cloudfront.net/out/v1/90ce358337e14be3bb82b6566b50a8b1/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/BvGsAkw.png",13C (720p)
+https://unlimited2-cl-isp.dps.live/13cultura/13cultura.smil/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/QvF4l2t.png",13Max Televisión (1080p)
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/i3YwORV.png",Latina
+https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8?uid=t6G3pXU3BEDDs03AI2LFWiUgScyZd3hI&sid=mbt03wbxRfjvsgJ3S11iOTz2JgTN0WzG&pid=oHANijS2WKrCWavzVTMVtvhscKz6kt26&an=Media%20Stream%20TV%20en%20vivo&at=web-app&av=v5.2.325&ref=https%3A%2F%2Fwww.latina.pe%2F&res=412x395&without_cookies=false&listenerid=&dnt=true
